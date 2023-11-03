@@ -84,6 +84,7 @@ while(1):
         round=int(input("Enter how many round you want to play:"))
         playgame(round)
     elif(ch==2):
+        print("Exit from the game...., Thank you for Playing")
         exit(0)
     else:
         print("Invalid choice please enter correct choice")
