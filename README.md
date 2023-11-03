@@ -32,4 +32,3 @@ This Python program is an implementation of the classic Rock-Paper-Scissors game
 3. Follow the on-screen instructions to play the game.
 4. Enjoy the Rock-Paper-Scissors showdown with the computer!
 
-## Thank You
