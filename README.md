@@ -2,7 +2,7 @@
 
 This Python program is an implementation of the classic Rock-Paper-Scissors game that allows you to play against a computer. The game is played for a specified number of rounds, and the player with the most points at the end wins.
 
-## How to Play
+## How to Play the game
 
 1. Run the program.
 2. Choose the number of rounds you want to play.
